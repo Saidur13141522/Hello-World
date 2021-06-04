@@ -1,3 +1,4 @@
 # Hello-World
-1st Project
-Here to learn Python mainly
+Very 1st Project, looking to learn something new
+
+
